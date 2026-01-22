@@ -3,23 +3,26 @@ layout: archive
 title: "Teaching"
 permalink: /teaching-md/
 author_profile: true
-# redirect_from:
-#   - /resume
 ---
 
 {% include base_path %}
 
 ## Instructor
-======
-* SP24: Econometrics II (M514, Master's Level), (E472, Advanced Undergraduate, colisted)
-* FA24: Statistical Analysis For Business and Economic (E370, Undergraduate)
 
-## TA
-======
-* E370: Statistical Analysis for Business and Economics
-* B251: Fundamentals of Econ for Business 1
-* B252: Fundamentals of Econ for Business 2
-* E571: Econometrics I (Graduate course)
-* E572: Econometrics II (Graduate course)
-* E671: Econometrics III (Graduate course)
-* E672: Macroeconometrics (Graduate course)
+- **Spring 2024**  
+  *Econometrics II* (M514, Master’s level; E472, Advanced Undergraduate — co-listed)
+
+- **Fall 2024**  
+  *Statistical Analysis for Business and Economics* (E370, Undergraduate)
+
+---
+
+## Teaching Assistant
+
+- *Statistical Analysis for Business and Economics* (E370)
+- *Fundamentals of Economics for Business I* (B251)
+- *Fundamentals of Economics for Business II* (B252)
+- *Econometrics I* (E571, Graduate)
+- *Econometrics II* (E572, Graduate)
+- *Econometrics III* (E671, Graduate)
+- *Macroeconometrics* (E672, Graduate)

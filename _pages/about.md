@@ -16,4 +16,4 @@ Email: ha1@iu.edu
 
 Research Interests
 ------
-Econometrics, Large Dimensional Data Analysis, Machine Learning
+Econometrics, Large Dimensional Data Analysis, Machine Learning, Functional Data Analysis

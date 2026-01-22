@@ -10,10 +10,10 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-**Determining the Structure of Dynamic Factor Models**
+**[Determining the Structure of Dynamic Factor Models](../files/papers/DFM_test.pdf)**
 <div style="margin-left: 2em;">
 
-We propose a simple and computationally efficient alternating least squares (ALS) algorithm for estimating dynamic factor models. We demonstrate that the factors and factor loadings are consistent up to an invertible matrix whose dimension equals the number of dynamic factors. Building on this result, we introduce two procedures for selecting the number of dynamic factors and the filter length. We illustrate the practical usefulness of the proposed framework through two empirical applications. First, we estimate impulse responses to monetary policy shocks identified using a large-dimensional system. Second, we construct directional connectedness measures for U.S. state-level and county-level COVID-19 positive cases.
+We propose a simple and computationally efficient alternating least squares (ALS) algorithm for estimating dynamic factor models with finite filter length. We demonstrate that the factors and factor loadings are consistent up to an invertible matrix whose dimension equals the number of dynamic factors. Building on this result, we introduce two procedures for selecting the number of dynamic factors and the filter length. We illustrate the practical usefulness of the proposed framework through two empirical applications. First, we estimate impulse responses to monetary policy shocks identified using a large-dimensional system. Second, we construct directional connectedness measures for U.S. state-level and county-level COVID-19 positive cases.
 </div>
 
 ---
