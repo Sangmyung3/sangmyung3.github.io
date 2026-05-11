@@ -13,7 +13,7 @@ author_profile: true
 **[Determining the Structure of Dynamic Factor Models](../files/papers/DFM_test.pdf)**
 <div style="margin-left: 2em;">
 
-We propose a simple and computationally efficient alternating least squares (ALS) algorithm for estimating dynamic factor models with finite filter length. We demonstrate that the factors and factor loadings are consistent up to an invertible matrix whose dimension equals the number of dynamic factors. Building on this result, we introduce two procedures for selecting the number of dynamic factors and the filter length. We illustrate the practical usefulness of the proposed framework through two empirical applications. First, we estimate impulse responses to monetary policy shocks identified using a large-dimensional system. Second, we construct directional connectedness measures for U.S. state-level and county-level COVID-19 positive cases.
+We propose two procedures for determining the number of dynamic factors, extending Bai and Ng (2002) and Ahn and Horenstein (2013) to dynamic factor models where lagged factors may directly influence the observed variables. As an intermediate step, we develop a simple and computationally efficient alternating least squares algorithm that directly estimates the dynamic factors, rather than their static representations. By working with these direct estimates, our approach enables joint determination of the number of factors and the filter length. Our test is shown to be consistent under weaker conditions than those in Bai and Ng (2007) and Amengual and Watson (2007). We apply our procedures to estimate the number of primitive shocks in a large panel of US macroeconomic time series.
 </div>
 
 ---
