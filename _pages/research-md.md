@@ -35,3 +35,16 @@ This paper introduces a functional factor model with tensor structure. Our model
 
 ## Work in Process
 **Quasi-Maximum Likelihood Estimation of Dynamic Factor Model**
+
+<!-- Three way panel data model with interactive fixed effects (Testing the interactive structure becomes important here, include funtion to scalar panel regression as an extension) -->
+<!-- Tensor Factor Model with Mixed Structure (Include both bi-linear and tri-linear factors, extension to functional data) 
+y_{it}(r) = \beta_t'f_i(r) + \varepsilon_{it}(r)
+y_{it}(r) = \beta_t(r)'f_i + \varepsilon_{it}(r)
+y_{it}(r) = \beta_{it}'f(r) + \varepsilon_{it}(r)
+y_{it}(r) = (\beta_{i}'\ast f')\alpha(r) + \varepsilon_{it}(r)
+-->
+
+<!-- Panel data model with nonlinear (nonparametric) interactive fixed effects -->
+<!-- Panel data model with regime switching (grouped) interactive fixed effects -->
+<!-- Mixed Functional Factor Model with Homogenous Basis -->
+<!-- panel data model with interactive dynamic fixed effects -->
