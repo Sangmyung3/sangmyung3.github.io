@@ -10,7 +10,8 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-**[Determining the Structure of Dynamic Factor Models](../files/papers/DFM_test.pdf)**
+**[Determining the Structure of Dynamic Factor Models](https://arxiv.org/abs/2606.26142)**
+*(Class of 2020 Best Third Year Paper Award)*
 <div style="margin-left: 2em;">
 
 We propose two procedures for determining the number of dynamic factors, extending Bai and Ng (2002) and Ahn and Horenstein (2013) to dynamic factor models where lagged factors may directly influence the observed variables. As an intermediate step, we develop a simple and computationally efficient alternating least squares algorithm that directly estimates the dynamic factors, rather than their static representations. By working with these direct estimates, our approach enables joint determination of the number of factors and the filter length. Our test is shown to be consistent under weaker conditions than those in Bai and Ng (2007) and Amengual and Watson (2007). We apply our procedures to estimate the number of primitive shocks in a large panel of US macroeconomic time series.
@@ -34,6 +35,7 @@ This paper introduces a functional factor model with tensor structure. Our model
 
 
 ## Work in Process
+**Estimating Large Dimensional Autocovariance Matrices with Application on Network Connectedness of the US State and County Level COVID Cases**
 **Quasi-Maximum Likelihood Estimation of Dynamic Factor Model**
 
 <!-- Three way panel data model with interactive fixed effects (Testing the interactive structure becomes important here, include funtion to scalar panel regression as an extension) -->
