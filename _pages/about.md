@@ -9,7 +9,7 @@ redirect_from:
 
 Bio
 ------
-I am a Ph.D. student in Economics at Indiana University, Bloomington.
+Hello, I am a Ph.D. student in Economics at Indiana University, Bloomington.
 
 Email: ha1@iu.edu
 
