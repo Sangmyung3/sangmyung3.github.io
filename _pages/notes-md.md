@@ -33,6 +33,7 @@ author_profile: true
 - [Recitation 4](/files/notes/recitation4.pdf)
 - [Recitation 5](/files/notes/recitation5.pdf)
 - [Recitation 6](/files/notes/recitation6.pdf)
+- [Recitation 7](/files/notes/recitation7.pdf)
 
 ---
 
