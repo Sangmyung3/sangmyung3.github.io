@@ -192,6 +192,38 @@ exclude:
   - README
   - tmp
   - vendor
+  # Keep Academic Pages examples in the repository without publishing them.
+  # The active personal pages and files/cv.pdf remain available.
+  - _drafts
+  - _portfolio
+  - _posts
+  - _publications
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/research.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  # Sample talk maps and generators also contain placeholder publications.
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
+  - files/bibtex1.bib
 keep_files:
   - .git
   - .svn
