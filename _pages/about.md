@@ -23,7 +23,7 @@ I'll be on the 2026-2027 job market.
 I develop a grouped three-way interactive fixed-effects model to estimate how teacher effects vary across student types in matched student–teacher achievement data.
 
 [Job Market Paper (PDF)]({{ '/files/papers/job_market_paper_Sangmyung_Ha.pdf' | relative_url }}){: .btn .btn--primary}
-[CV (PDF)]({{ '/files/cv.pdf' | relative_url }}){: .btn}
+[CV (PDF)]({{ '/files/CV_Sangmyung_Ha.pdf' | relative_url }}){: .btn}
 [All Research]({{ '/research-md/' | relative_url }}){: .btn}
 
 ## Research Interests

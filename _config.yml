@@ -193,7 +193,7 @@ exclude:
   - tmp
   - vendor
   # Keep Academic Pages examples in the repository without publishing them.
-  # The active personal pages and files/cv.pdf remain available.
+  # The active personal pages and files/CV_Sangmyung_Ha.pdf remain available.
   - _drafts
   - _portfolio
   - _posts

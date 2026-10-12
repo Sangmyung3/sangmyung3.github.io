@@ -81,7 +81,7 @@ We propose two procedures for determining the number of dynamic factors, extendi
 
 ## Work in Progress
 
-### Estimating Large Dimensional Autocovariance Matrices with Application on Network Connectedness of the US State and County Level COVID Cases
+### Large-Dimensional Autocovariance Estimation and Network Connectedness of the US State and County Level COVID Cases
 
 <!-- **Quasi-Maximum Likelihood Estimation of Dynamic Factor Model** -->
 
