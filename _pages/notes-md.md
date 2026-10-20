@@ -30,7 +30,7 @@ author_profile: true
 
 ### Others
 
-- [Panel Regression](/files/notes/panel_FE_RE.pdf)
+- [Panel Regression](/files/notes/Panel_FE_RE.pdf)
 - [Matrix calculs](/files/notes/Matrix_Calculus.pdf)
 - [GMM](/files/notes/GMM.pdf)
 - [Regression](/files/notes/causal_regression.pdf)
