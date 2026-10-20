@@ -15,13 +15,6 @@ author_profile: true
 
 ---
 
-## Notes on Nonparametrics
-
-- [Regression](/files/notes/causal_regression.pdf)
-- [Binary Choice Models](/files/notes/causal_classification.pdf)
-
----
-
 ## Teaching Notes
 
 ### Macroeconometrics  
@@ -34,6 +27,14 @@ author_profile: true
 - [Recitation 5](/files/notes/recitation5.pdf)
 - [Recitation 6](/files/notes/recitation6.pdf)
 - [Recitation 7](/files/notes/recitation7.pdf)
+
+### Others
+
+- [Panel Regression](/files/notes/panel_FE_RE.pdf)
+- [Matrix calculs](/files/notes/Matrix_Calculus.pdf)
+- [GMM](/files/notes/GMM.pdf)
+- [Regression](/files/notes/causal_regression.pdf)
+- [Binary Choice Models](/files/notes/causal_classification.pdf)
 
 ---
 
