@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About"
-description: "Sangmyung Ha is a Ph.D. student in Economics at Indiana University, researching econometric methods for high-dimensional panel and functional data."
+description: "Sangmyung Ha is a Ph.D. candidate in Economics at Indiana University, researching econometric methods for high-dimensional panel and functional data."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student in Economics at Indiana University, Bloomington.
+I am a Ph.D. candidate in Economics at Indiana University, Bloomington. I am also a student fellow at [Economic Machine Learning Lab](https://eml-lab.github.io/).
 
 My research develops econometric methods for high-dimensional panel and functional data, with a focus on factor models and tensor structure. I use these methods to study heterogeneous teacher effects and common patterns in macroeconomic and financial data.
 
