@@ -96,3 +96,4 @@ y_{it}(r) = (\beta_{i}'\ast f')\alpha(r) + \varepsilon_{it}(r)
 <!-- Panel data model with regime switching (grouped) interactive fixed effects -->
 <!-- Mixed Functional Factor Model with Homogenous Basis -->
 <!-- panel data model with interactive dynamic fixed effects -->
+<!-- panel data model with bias corrected interactive two-way fixed effects -->
